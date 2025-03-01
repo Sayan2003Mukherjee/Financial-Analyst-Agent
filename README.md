@@ -1,1 +1,1 @@
-# Financial-Analyst-Agent
+# Financial-Research-Analyst-Agent
