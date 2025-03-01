@@ -1,0 +1,9 @@
+phidata
+python-dotenv
+yfinance
+packaging
+duckduckgo-search # it is tool used by agents for websearch.
+fastapi
+uvicorn
+groq
+openai
