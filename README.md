@@ -1,4 +1,4 @@
-Financial Research AI Agent
+# Financial Research AI Agent
 
 Welcome to my Financial Research AI Agent project! 🚀
 
