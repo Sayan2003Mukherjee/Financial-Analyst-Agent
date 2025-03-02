@@ -8,7 +8,7 @@ This project marks my first Agentic AI system, designed to explore how autonomou
 
 The Financial Research AI Agent is a multi-agent system capable of:
 
-Fetching real-time stock market prices 📊
+-Fetching real-time stock market prices 📊
 
 Searching the web for latest financial news 🌐
 
