@@ -46,33 +46,19 @@ The app will be available at http://localhost:7777.
 
 # 🛠️ Tech Stack
 
-Technology
+## Tech Stack
 
-Purpose
+| Technology     | Purpose                        |
+|---------------|--------------------------------|
+| **Phidata**   | Agent orchestration and collaboration |
+| **Groq API**  | Core language model for summarization and analysis |
+| **YFinanceTools** | Stock market data retrieval |
+| **DuckDuckGo API** | Real-time web search |
+| **FastAPI + Uvicorn** | Backend API server |
+| **Python dotenv** | Environment variable management |
 
-Phidata
 
-Agent orchestration and collaboration
 
-Groq API (LLaMA 3)
-
-Core language model for summarization and analysis
-
-YFinanceTools
-
-Stock market data retrieval
-
-DuckDuckGo API
-
-Real-time web search
-
-FastAPI + Uvicorn
-
-Backend API server
-
-Python dotenv
-
-Environment variable management
 
 # 🔥 Features
 
