@@ -1,10 +1,10 @@
 # Financial Research AI Agent
 
-Welcome to my Financial Research AI Agent project! 🚀
+# Welcome to my Financial Research AI Agent project! 🚀
 
 This project marks my first Agentic AI system, designed to explore how autonomous AI agents can collaborate to perform financial data analysis and web search tasks. Built using Phidata, Groq API, and other advanced tools, this agent is a step towards developing more complex AI systems from scratch.
 
-🌐 Project Overview
+# 🌐 Project Overview
 
 The Financial Research AI Agent is a multi-agent system capable of:
 
@@ -24,7 +24,7 @@ Finance Agent: Fetches stock prices, company news, and analyst recommendations u
 
 These agents work collaboratively under the Phidata multi-agent system to generate comprehensive financial reports.
 
-🔑 How It Works
+# 🔑 How It Works
 
 Data Fetching: The Web Search Agent queries the internet for the latest news, while the Finance Agent collects stock market data.
 
@@ -34,7 +34,7 @@ Collaboration: The agents collaborate to merge their results into a final struct
 
 Presentation: The final output is displayed in tabular format with proper citations.
 
-🔍 Code Implementation
+# 🔍 Code Implementation
 
 How to Connect
 
@@ -44,7 +44,7 @@ python playground.py
 
 The app will be available at http://localhost:7777.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Technology
 
@@ -74,7 +74,7 @@ Python dotenv
 
 Environment variable management
 
-🔥 Features
+# 🔥 Features
 
 Real-time stock price tracking
 
@@ -86,7 +86,7 @@ Tabular data representation
 
 Collaborative multi-agent system
 
-🧠 Challenges Faced
+# 🧠 Challenges Faced
 
 Synchronizing two autonomous agents efficiently
 
@@ -94,13 +94,13 @@ Merging financial data with live web search results
 
 Displaying data in an organized, readable format
 
-🔍 Future Roadmap
+# 🔍 Future Roadmap
 
 Build AI agents without frameworks from scratch
 
 Deploy the project on cloud platforms
 
-💪 What I Learned
+# 💪 What I Learned
 
 How to create multi-agent systems
 
